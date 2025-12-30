@@ -1,0 +1,72 @@
+[
+  {
+    "tour_name": "Manali Adventure",
+    "duration": "5 Days / 4 Nights",
+    "original_price": 15000,
+    "discount": 12000,
+    "image": "uploads/manali.jpg"
+  },
+  {
+    "tour_name": "Leh-Ladakh Road Trip",
+    "duration": "7 Days / 6 Nights",
+    "original_price": 35000,
+    "discount": 30000,
+    "image": "uploads/leh.jpg"
+  },
+  {
+    "tour_name": "Goa Beach Holiday",
+    "duration": "4 Days / 3 Nights",
+    "original_price": 12000,
+    "discount": 10000,
+    "image": "uploads/goa.jpg"
+  },
+  {
+    "tour_name": "Rishikesh Rafting & Camping",
+    "duration": "3 Days / 2 Nights",
+    "original_price": 8000,
+    "discount": 7000,
+    "image": "uploads/rishikesh.jpg"
+  },
+  {
+    "tour_name": "Shimla Hill Station",
+    "duration": "4 Days / 3 Nights",
+    "original_price": 10000,
+    "discount": 8500,
+    "image": "uploads/shimla.jpg"
+  },
+  {
+    "tour_name": "Darjeeling & Gangtok Tour",
+    "duration": "6 Days / 5 Nights",
+    "original_price": 25000,
+    "discount": 22000,
+    "image": "uploads/darjeeling.jpg"
+  },
+  {
+    "tour_name": "Andaman Island Escape",
+    "duration": "5 Days / 4 Nights",
+    "original_price": 30000,
+    "discount": 27000,
+    "image": "uploads/andaman.jpg"
+  },
+  {
+    "tour_name": "Udaipur & Jaipur Royal Tour",
+    "duration": "5 Days / 4 Nights",
+    "original_price": 20000,
+    "discount": 18000,
+    "image": "uploads/udaipur.jpg"
+  },
+  {
+    "tour_name": "Kerala Backwaters Cruise",
+    "duration": "4 Days / 3 Nights",
+    "original_price": 18000,
+    "discount": 15000,
+    "image": "uploads/kerala.jpg"
+  },
+  {
+    "tour_name": "Sikkim & North Bengal Explorer",
+    "duration": "6 Days / 5 Nights",
+    "original_price": 28000,
+    "discount": 25000,
+    "image": "uploads/sikkim.jpg"
+  }
+]
